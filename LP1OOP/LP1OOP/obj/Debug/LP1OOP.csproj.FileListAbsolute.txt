@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\LP1OOP\LP1OOP\bin\Debug\LP1OOP.exe.config
+C:\Users\Admin\source\repos\LP1OOP\LP1OOP\bin\Debug\LP1OOP.exe
+C:\Users\Admin\source\repos\LP1OOP\LP1OOP\bin\Debug\LP1OOP.pdb
+C:\Users\Admin\source\repos\LP1OOP\LP1OOP\obj\Debug\LP1OOP.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\LP1OOP\LP1OOP\obj\Debug\LP1OOP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LP1OOP\LP1OOP\obj\Debug\LP1OOP.exe
+C:\Users\Admin\source\repos\LP1OOP\LP1OOP\obj\Debug\LP1OOP.pdb
+C:\Users\Admin\source\repos\LP1OOP\LP1OOP\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\source\repos\LP1OOP\LP1OOP\bin\Debug\System.ValueTuple.xml
