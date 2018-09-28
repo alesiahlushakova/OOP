@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\LP2OOP\LP2OOP\bin\Debug\LP2OOP.exe.config
+C:\Users\Admin\source\repos\LP2OOP\LP2OOP\bin\Debug\LP2OOP.exe
+C:\Users\Admin\source\repos\LP2OOP\LP2OOP\bin\Debug\LP2OOP.pdb
+C:\Users\Admin\source\repos\LP2OOP\LP2OOP\obj\Debug\LP2OOP.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\LP2OOP\LP2OOP\obj\Debug\LP2OOP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LP2OOP\LP2OOP\obj\Debug\LP2OOP.exe
+C:\Users\Admin\source\repos\LP2OOP\LP2OOP\obj\Debug\LP2OOP.pdb
