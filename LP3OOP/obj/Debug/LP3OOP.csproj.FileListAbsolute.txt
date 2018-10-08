@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\LP3OOP\LP3OOP\bin\Debug\LP3OOP.exe.config
+C:\Users\Admin\source\repos\LP3OOP\LP3OOP\bin\Debug\LP3OOP.exe
+C:\Users\Admin\source\repos\LP3OOP\LP3OOP\bin\Debug\LP3OOP.pdb
+C:\Users\Admin\source\repos\LP3OOP\LP3OOP\obj\Debug\LP3OOP.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\LP3OOP\LP3OOP\obj\Debug\LP3OOP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LP3OOP\LP3OOP\obj\Debug\LP3OOP.exe
+C:\Users\Admin\source\repos\LP3OOP\LP3OOP\obj\Debug\LP3OOP.pdb
