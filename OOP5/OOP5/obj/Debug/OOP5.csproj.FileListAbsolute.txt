@@ -1,0 +1,14 @@
+D:\!Фит ПОИТ\!3 семестр\ООП\Лабораторная 5\OOP5\OOP5\bin\Debug\OOP5.exe.config
+D:\!Фит ПОИТ\!3 семестр\ООП\Лабораторная 5\OOP5\OOP5\bin\Debug\OOP5.exe
+D:\!Фит ПОИТ\!3 семестр\ООП\Лабораторная 5\OOP5\OOP5\bin\Debug\OOP5.pdb
+D:\!Фит ПОИТ\!3 семестр\ООП\Лабораторная 5\OOP5\OOP5\obj\Debug\OOP5.csprojAssemblyReference.cache
+D:\!Фит ПОИТ\!3 семестр\ООП\Лабораторная 5\OOP5\OOP5\obj\Debug\OOP5.csproj.CoreCompileInputs.cache
+D:\!Фит ПОИТ\!3 семестр\ООП\Лабораторная 5\OOP5\OOP5\obj\Debug\OOP5.exe
+D:\!Фит ПОИТ\!3 семестр\ООП\Лабораторная 5\OOP5\OOP5\obj\Debug\OOP5.pdb
+C:\Users\Admin\source\repos\Лабораторная 5\OOP5\OOP5\bin\Debug\OOP5.exe.config
+C:\Users\Admin\source\repos\Лабораторная 5\OOP5\OOP5\bin\Debug\OOP5.exe
+C:\Users\Admin\source\repos\Лабораторная 5\OOP5\OOP5\bin\Debug\OOP5.pdb
+C:\Users\Admin\source\repos\Лабораторная 5\OOP5\OOP5\obj\Debug\OOP5.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\Лабораторная 5\OOP5\OOP5\obj\Debug\OOP5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Лабораторная 5\OOP5\OOP5\obj\Debug\OOP5.exe
+C:\Users\Admin\source\repos\Лабораторная 5\OOP5\OOP5\obj\Debug\OOP5.pdb
