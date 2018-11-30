@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\LP10OOP\LP10OOP\bin\Debug\LP10OOP.exe.config
+C:\Users\Admin\source\repos\LP10OOP\LP10OOP\bin\Debug\LP10OOP.exe
+C:\Users\Admin\source\repos\LP10OOP\LP10OOP\bin\Debug\LP10OOP.pdb
+C:\Users\Admin\source\repos\LP10OOP\LP10OOP\obj\Debug\LP10OOP.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\LP10OOP\LP10OOP\obj\Debug\LP10OOP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LP10OOP\LP10OOP\obj\Debug\LP10OOP.exe
+C:\Users\Admin\source\repos\LP10OOP\LP10OOP\obj\Debug\LP10OOP.pdb
