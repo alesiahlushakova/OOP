@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\LP9OOP\LP9OOP\bin\Debug\LP9OOP.exe.config
+C:\Users\Admin\source\repos\LP9OOP\LP9OOP\bin\Debug\LP9OOP.exe
+C:\Users\Admin\source\repos\LP9OOP\LP9OOP\bin\Debug\LP9OOP.pdb
+C:\Users\Admin\source\repos\LP9OOP\LP9OOP\obj\Debug\LP9OOP.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\LP9OOP\LP9OOP\obj\Debug\LP9OOP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LP9OOP\LP9OOP\obj\Debug\LP9OOP.exe
+C:\Users\Admin\source\repos\LP9OOP\LP9OOP\obj\Debug\LP9OOP.pdb
