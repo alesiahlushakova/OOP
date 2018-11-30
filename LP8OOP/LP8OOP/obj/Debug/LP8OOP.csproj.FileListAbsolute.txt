@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\LP8OOP\LP8OOP\bin\Debug\LP8OOP.exe.config
+C:\Users\Admin\source\repos\LP8OOP\LP8OOP\bin\Debug\LP8OOP.exe
+C:\Users\Admin\source\repos\LP8OOP\LP8OOP\bin\Debug\LP8OOP.pdb
+C:\Users\Admin\source\repos\LP8OOP\LP8OOP\obj\Debug\LP8OOP.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\LP8OOP\LP8OOP\obj\Debug\LP8OOP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LP8OOP\LP8OOP\obj\Debug\LP8OOP.exe
+C:\Users\Admin\source\repos\LP8OOP\LP8OOP\obj\Debug\LP8OOP.pdb
