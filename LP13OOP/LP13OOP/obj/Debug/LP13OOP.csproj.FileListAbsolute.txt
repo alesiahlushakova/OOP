@@ -1,0 +1,7 @@
+D:\LP13OOP\LP13OOP\bin\Debug\LP13OOP.exe.config
+D:\LP13OOP\LP13OOP\bin\Debug\LP13OOP.exe
+D:\LP13OOP\LP13OOP\bin\Debug\LP13OOP.pdb
+D:\LP13OOP\LP13OOP\obj\Debug\LP13OOP.csprojResolveAssemblyReference.cache
+D:\LP13OOP\LP13OOP\obj\Debug\LP13OOP.csproj.CoreCompileInputs.cache
+D:\LP13OOP\LP13OOP\obj\Debug\LP13OOP.exe
+D:\LP13OOP\LP13OOP\obj\Debug\LP13OOP.pdb

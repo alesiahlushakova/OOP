@@ -1,0 +1,9 @@
+std.
+main.
+<
+declare  number num=5+(4*5).
+declare string str.
+declare ? bool.
+show(num).
+back.
+>
